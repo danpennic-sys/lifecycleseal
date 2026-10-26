@@ -1,0 +1,15 @@
+{
+  "job_id": "JOB-2026-LIFE-001",
+  "client": "Acme HVAC Repair",
+  "quote_pack_hash": "a1b2c3d4e5f6789012345678901234567890abcdef1234567890abcdef123456",
+  "field_pack_hashes": [
+    "b2c3d4e5f6789012345678901234567890abcdef1234567890abcdef12345678",
+    "c3d4e5f6789012345678901234567890abcdef1234567890abcdef1234567890"
+  ],
+  "close_pack_hash": "d4e5f6789012345678901234567890abcdef1234567890abcdef1234567890ab",
+  "invoice_pack_hash": "e5f6789012345678901234567890abcdef1234567890abcdef1234567890abcd",
+  "summary": "Quote accepted, work logged, close-out signed, invoice sealed. Full lifecycle evidence.",
+  "status": "complete",
+  "operator": "tech-dan",
+  "notes": "All packs verified PASS with QuantumGuard before bundling."
+}
